@@ -1,5 +1,8 @@
 # Mobile Health Activity Recognition 2024
 
+![Teaser](sumbission/ppg_orig.png)
+![Teaser](sumbission/ppg_filt.png)
+
 ## Overview
 
 This repository contains the code and implementation for the Mobile Health (mHealth) activity recognition project completed at ETH Zurich in 2024. The project focuses on classifying human activities, sensor postions, steps and heartbeat using wearable sensor data from smartwatch (LilyGo) placed at different body locations.
