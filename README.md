@@ -1,7 +1,7 @@
 # Mobile Health Activity Recognition 2024
 
-![Teaser](sumbission/ppg_orig.png)
-![Teaser](sumbission/ppg_filt.png)
+![Teaser](sumbission_code/ppg_orig.png)
+![Teaser](sumbission_code/ppg_filt.png)
 
 ## Overview
 
